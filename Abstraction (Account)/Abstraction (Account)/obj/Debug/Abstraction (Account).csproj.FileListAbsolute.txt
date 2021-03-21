@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\bin\Debug\Abstraction (Account).exe.config
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\bin\Debug\Abstraction (Account).exe
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\bin\Debug\Abstraction (Account).pdb
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\obj\Debug\Abstraction (Account).csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\obj\Debug\Abstraction (Account).csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\obj\Debug\Abstraction (Account).exe
+F:\Softwares Outpus\Visual Stdio 2019\Abstraction (Account)\Abstraction (Account)\obj\Debug\Abstraction (Account).pdb
