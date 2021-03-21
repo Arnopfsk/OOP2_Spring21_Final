@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\obj\Debug\FLab 1.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\obj\Debug\FLab 1.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\bin\Debug\FLab 1.exe.config
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\bin\Debug\FLab 1.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\bin\Debug\FLab 1.pdb
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\obj\Debug\FLab 1.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\FLab 1\FLab 1\obj\Debug\FLab 1.pdb
