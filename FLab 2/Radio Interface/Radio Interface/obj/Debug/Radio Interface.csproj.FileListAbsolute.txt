@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\bin\Debug\Radio Interface.exe.config
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\bin\Debug\Radio Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\bin\Debug\Radio Interface.pdb
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\obj\Debug\Radio Interface.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\obj\Debug\Radio Interface.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\obj\Debug\Radio Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Radio Interface\Radio Interface\obj\Debug\Radio Interface.pdb

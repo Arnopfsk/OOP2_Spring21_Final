@@ -1,0 +1,6 @@
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\bin\Debug\Account Interface.exe.config
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\bin\Debug\Account Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\bin\Debug\Account Interface.pdb
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\obj\Debug\Bank Interface.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\obj\Debug\Account Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Account Interface\Account Interface\obj\Debug\Account Interface.pdb

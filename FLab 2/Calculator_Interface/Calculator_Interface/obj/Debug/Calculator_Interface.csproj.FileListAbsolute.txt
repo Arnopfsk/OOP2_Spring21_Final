@@ -1,0 +1,7 @@
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\bin\Debug\Calculator_Interface.exe.config
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\bin\Debug\Calculator_Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\bin\Debug\Calculator_Interface.pdb
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\obj\Debug\Calculator_Interface.csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\obj\Debug\Calculator_Interface.csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\obj\Debug\Calculator_Interface.exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\Calculator_Interface\Calculator_Interface\obj\Debug\Calculator_Interface.pdb
