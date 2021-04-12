@@ -1,0 +1,10 @@
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\bin\Debug\GIU(DB).exe.config
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\bin\Debug\GIU(DB).exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\bin\Debug\GIU(DB).pdb
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU(DB).csprojAssemblyReference.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU_DB_.Form1.resources
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU_DB_.Properties.Resources.resources
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU(DB).csproj.GenerateResource.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU(DB).csproj.CoreCompileInputs.cache
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU(DB).exe
+F:\Softwares Outpus\Visual Stdio 2019 (Final)\GIU(DB)\GIU(DB)\obj\Debug\GIU(DB).pdb
